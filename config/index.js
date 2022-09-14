@@ -26,9 +26,9 @@ export const config = {
       name: "乖乖",
         
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "omve75zhZcyXsNKDsbZbBb76NknE",
+      id: "omve751-KsKjHQOZInMMnFX3-XH4",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "SGum8ua7cq3DvIZqY7wXQp2lQMc_QjCL-KxdbdD0WnI",
+      useTemplateId: "wXB1NMoFdLjb_L1BGK7qHDpdHSUKwBuhFhc3im8IkRs",
       // 所在省份
       province: "湖北",
       // 所在城市
